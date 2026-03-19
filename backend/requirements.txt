@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+chromadb
+openai
+tavily-python
+httpx
+readability-lxml
+beautifulsoup4
+lxml
+aiosqlite
+sse-starlette
+sentence-transformers
+langdetect

@@ -1,0 +1,27 @@
+# Environment
+.env
+*.env
+
+# Prompts
+/prompts/
+backend/prompts/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+.next/
+
+# Database & logs
+*.db
+*.db-shm
+*.db-wal
+chroma_db/
+logs.jsonl
+
+# System
+.DS_Store
+.claude/
